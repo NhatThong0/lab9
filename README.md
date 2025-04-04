@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
+## Clima - Powering Your FlutterApp with Live Web Data
 
 This project is a starting point for a Flutter application.
 
